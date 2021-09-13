@@ -4,7 +4,8 @@
 * 🌱 I’m currently learning Computer Programming at Seneca College
 
 ### How to reach me 📫
-* Hyejun's Email: hyejunan.canada@gmail.com
+* Hyejun's Email: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyejunan.canada@gmail.com)](mailto:snugyun01@gmail.com)
+* Hyejun's LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/hyejun-an)](www.linkedin.com/in/hyejun-an)
 
 
 ![Hyejun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejunan&&show_icons=true&theme=default)
