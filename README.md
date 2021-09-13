@@ -1,6 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hyejun%20An&fontSize=90)
 
 ### Hi there 👋
+* 🌱 I’m currently learning Computer Programming at Seneca College
+
+### How to reach me 📫
+* Hyejun's Email: hyejunan.canada@gmail.com
+
+
+![Hyejun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejunan&&show_icons=true&theme=default)
 
 <!--
 **hyejunan/hyejunan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
